@@ -30,7 +30,7 @@ int main(){
 
    int b = 3; //선언과 동시에 값을 대입하는것을 초기화라고 한다.
 
-   cout << "a = " << a << "b = " << b << endl;
+   cout << "a = " << a << ", b = " << b << endl;
 
     return 0;
 }
